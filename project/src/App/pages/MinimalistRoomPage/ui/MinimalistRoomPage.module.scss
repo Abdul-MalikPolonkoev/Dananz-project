@@ -1,0 +1,69 @@
+.minimalistroom {
+    width: 100%;
+    height: 3765px;
+}
+
+.minimalistroom_block {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 135px;
+}
+
+.minimalistroom_logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 56px;
+    font-weight: 700;
+  
+}
+
+.minimalistroom_desc {
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+    margin-top: -26px;
+}
+
+.minimalistroom_img {
+    width: 1279px;
+    margin-left: 120px;
+    margin-top: 425px;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.minimalist_block_text {
+    display: flex;
+    margin-left: 120px;
+    margin-top: 702px;
+}
+
+.minimalist_block_item {}
+
+.minimalist_logo_item {
+    font-size: 24px;
+    font-weight: 600;
+    color: #333333;
+}
+
+.minimalist_desc_item {
+    font-size: 18px;
+    font-weight: 400;
+    color: #9C9C9C;
+}
+
+.minimalist_block_images {
+    margin-left: 120px;
+    margin-top: 85px;
+}
+
+.image_1 {
+    width: 623.5px;
+}
+.image_2 {
+    width: 1279px;
+}

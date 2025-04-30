@@ -1,0 +1,222 @@
+.home {
+    width: 100vh;
+}
+
+.text_logotype {
+    position: absolute;
+    left: 0;
+    top: 0;
+    font-size: 72px;
+    color: #333333;
+    margin-left: 120px;
+    margin-top: 143px;
+}
+
+.line {
+    width: 730px;
+    border: 1px solid #000;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-left: 665px;
+    margin-top: 193px;
+}
+
+
+.text_sections {
+    width: 252px;
+    height: 525px;
+    background: #2C3878;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-left: 926px;
+    margin-top: 300px;
+}
+
+.text_body {
+    width: 156px;
+    height: 441px;
+    margin-left: 48px;
+    margin-top: 40px;
+}
+ .number_item {
+    font-size: 52px;
+    font-weight: 400;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ }
+
+ .p_text_item {
+    font-size: 16px;
+    font-weight: 400;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ }
+
+ .text_section {
+    width: 150px;
+    height: 109px;
+ }
+
+ .about_section {
+    width: 1200px;
+    height: 166px;
+    margin-left: 120px;
+    margin-top: 1245px;
+ }
+
+
+ .line_2 {
+    width: 498px;
+    border: 1px solid #000;
+    margin-left: 69px;
+    margin-top: -12px;
+ }
+
+ .about_text_section {
+    height: 122px;
+    font-size: 36px;
+    font-weight: 600;
+    color: #333333;
+ }
+
+ .user_card {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 276px;
+    height: 90px;
+    background: #ffffff;
+    margin-left: 984px;
+    margin-top: 1494px;
+
+    box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.1);
+
+    .avatar_user {
+        margin-left: 20px;
+        margin-top: 17px;
+
+    }
+ }
+
+ .content_btn {
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-left: 1200px;
+    margin-top: 1700px;
+    
+
+    .text_content_btn {
+        font-size: 18px;
+        color: #9C9C9C;
+    }
+
+    .btn {
+        display: block;
+        margin-top: 40px;
+    }
+ }
+
+ .service_block {
+    width: 940px;
+    height: 467px;
+    background: #ffffff;
+    margin-left: 120px;
+    margin-top: 2185px;
+    position: absolute;
+    left: 0;
+    top: 0;
+
+    .block_footer {
+        width: 780px;
+        height: 216px;
+    }
+ }
+
+ .kitchen3 {
+    width: 1152px;
+    margin-left: 244px;
+    margin-top: 1078px;
+ }
+
+ .service_footer {
+    display: flex;
+ }
+
+ .product_block_footer {
+   width: 1274px;
+   height: 166px;
+   margin-left: 120px;
+   margin-top: 156px;
+
+   .line_3 {
+      width: 504px;
+      border: 1px solid #333333;
+      margin-left: 93px;
+      margin-top: -11px;
+   }
+ }
+
+ .product_footer {
+   display: flex;
+   align-items: center;
+   margin-left: 120px;
+   margin-top: 30px;
+
+   position: relative;
+
+ }
+
+ .product_text_footer {
+   position: absolute;
+   top: 0;
+   left: 0;
+   margin-left: 117px;
+   margin-top: 86px;
+}
+
+ .product_arrow_right {
+   cursor: pointer;
+   margin-top: 9px;
+}
+
+ .material_block {
+   width: 1274px;
+   height: 490px;
+   margin-left: 120px;
+   margin-top: 280px;
+ }
+
+ .material_images_block {
+   width: 622px;
+   height: 490px;
+   margin-left: 577px;
+   margin-top: -461px;
+
+ }
+
+ .material_text_block {
+   width: 600px;
+   height: 379px;
+}
+
+ .name_material {
+   font-size: 36px;
+   font-weight: 600;
+   color: #333333;
+}
+
+
+.material_btn {
+   margin-top: 13px;
+
+   cursor: pointer;
+}
+
+
