@@ -31,10 +31,6 @@
     gap: 14px;
 }
 
-.input_block_item {
-    
-}
-
 .input {
     width: 413px;
     height: 62px;
@@ -53,6 +49,7 @@
     font-weight: 500;
     color: #333333;
 }
+
 .input_logo2 {
     font-size: 18px;
     font-weight: 500;
@@ -105,7 +102,7 @@
 }
 
 .input_2::placeholder {
-    padding-left: 104px;
+    padding-left: 32px;
 }
 
 .contactus_btn {

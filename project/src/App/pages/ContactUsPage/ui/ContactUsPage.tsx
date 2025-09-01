@@ -24,7 +24,6 @@ export const ContactUsPage = () => {
         { code: '+37', name: 'CY' },
         { code: '+38', name: 'KP' },
         { code: '+44', name: 'UK' },
-
     ]
 
     const handleShow = () => {
@@ -57,7 +56,7 @@ export const ContactUsPage = () => {
                         </div>
                         <div className={cls.input_block_item3}>
                             <h5 className={cls.input_logo3}>Phone Number</h5>
-                            <input  className={cls.input_2} placeholder='First Name' type="text" />
+                            <input className={cls.input_2} placeholder='First Name' type="text" />
                         </div>
                         <div className={cls.input_block_item3}>
                         <h5 className={cls.input_logo3}>Message</h5>
