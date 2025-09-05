@@ -27,7 +27,7 @@ export const HomePage = memo(() => {
                     </div>
                     <hr className={cls.line}/> 
                 </div>
-                <img style={{position: "absolute", left: "0", top: "0", width: "1277px", marginLeft: "120px", marginTop: "540px"}} src={kitchen} alt="" />
+                <img className={cls.kitchen_img} src={kitchen} alt="" />
                 <div className={cls.text_sections}>
                    <div className={cls.text_body}>
                    <div className={cls.text_section}>

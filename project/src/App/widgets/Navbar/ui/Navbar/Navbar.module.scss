@@ -37,3 +37,73 @@
 
     cursor: pointer;
 }
+
+@media (max-width: 1603px) {
+
+    .navbar_wrap {
+
+        .navigator {
+            margin-left: 40%;
+
+            div {}
+        }
+
+        .btn {
+            margin-left: 1206px;
+   }
+
+   
+    }
+}
+
+@media (max-width: 1368px) {
+    .navigator {
+        margin-left: 16%;
+    }
+}
+
+@media (max-width: 1366px) {
+   
+    .navbar_wrap {
+
+        .logo {
+            margin-left: -40px;
+        }
+
+        .navigator {
+            margin-left: -34%;
+
+        li {
+            font-size: 15px;
+            margin-left: -22px;
+        }
+   }
+
+   .btn {
+    width: 120px;
+    height: 46px;
+    margin-left: 668px;
+   }
+}
+}
+
+@media (max-width: 720px) {
+    .navigator {
+        margin-left: 16%;
+    }
+}
+@media (max-width: 1024px) {
+    
+    .navbar_wrap {
+
+        .btn {
+            margin-left: 680px;
+        }
+    }
+}
+
+@media (max-width: 1603px) {
+    .btn {
+        margin-left: 1137px;
+    }
+}
