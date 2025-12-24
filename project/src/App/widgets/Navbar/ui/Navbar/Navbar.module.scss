@@ -2,40 +2,40 @@
     position: absolute;
     top: 0;
     left: 0;
-    width: 1278px;
+    width: 1198px;
     height: 100px;
     background: #ffffff;
     margin-left: 120px;
     margin-top: 20px;
-}
 
-.navigator {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    list-style: none;
-    margin-left: 800px;
-    margin-top: 37px;
-    gap: 63px;
-}
+    .navbar_wrap {
+        .logo {
+            position: absolute;
+            top: 0;
+            left: 0;
+            margin-left: 0px;
+            margin-top: 20px;
+        }
 
-.logo {
-    position: absolute;
-    top: 0;
-    left: 0;
-    margin-left: 0px;
-    margin-top: 20px;
+        ul {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            list-style: none;
+            margin-left: 30px;
+            margin-top: 37px;
+            gap: 63px;
+        }
 
-}
-
-.btn {
-    position: absolute;
-    top: 0;
-    left: 0;
-    margin-left: 1457px;
-    margin-top: 25px;
-
-    cursor: pointer;
+        .btn {
+            position: absolute;
+            top: 0;
+            left: 0;
+            margin-left: 1055px;
+            margin-top: 25px;
+            cursor: pointer;
+        }
+    }
 }
 
 @media (max-width: 1603px) {
@@ -50,9 +50,9 @@
 
         .btn {
             margin-left: 1206px;
-   }
+        }
 
-   
+
     }
 }
 
@@ -63,7 +63,7 @@
 }
 
 @media (max-width: 1366px) {
-   
+
     .navbar_wrap {
 
         .logo {
@@ -73,18 +73,18 @@
         .navigator {
             margin-left: -34%;
 
-        li {
-            font-size: 15px;
-            margin-left: -22px;
+            li {
+                font-size: 15px;
+                margin-left: -22px;
+            }
         }
-   }
 
-   .btn {
-    width: 120px;
-    height: 46px;
-    margin-left: 668px;
-   }
-}
+        .btn {
+            width: 120px;
+            height: 46px;
+            margin-left: 668px;
+        }
+    }
 }
 
 @media (max-width: 720px) {
@@ -92,8 +92,9 @@
         margin-left: 16%;
     }
 }
+
 @media (max-width: 1024px) {
-    
+
     .navbar_wrap {
 
         .btn {

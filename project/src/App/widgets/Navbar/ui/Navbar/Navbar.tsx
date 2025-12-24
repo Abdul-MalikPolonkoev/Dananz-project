@@ -11,18 +11,18 @@ export const Navbar = () => {
             <div className='container'>
                 <div className={cls.navbar_wrap}>
                     <img className={cls.logo} src={logo} alt="" />
-                    <ul className={cls.navigator}>
-                        <Link style={{textDecoration: "none", color: "#000"}} to="/">
-                        <li>Home</li>
+                    <ul>
+                        <Link style={{ textDecoration: "none", color: "#000" }} to="/">
+                            <li>Home</li>
                         </Link>
-                        <Link style={{textDecoration: "none", color: "#000"}} to="/about">
-                        <li>About Us</li>
+                        <Link style={{ textDecoration: "none", color: "#000" }} to="/about">
+                            <li>About Us</li>
                         </Link>
-                        <Link style={{textDecoration: "none", color: "#000"}} to="/services">
-                        <li>Services</li>
+                        <Link style={{ textDecoration: "none", color: "#000" }} to="/services">
+                            <li>Services</li>
                         </Link>
-                        <Link style={{textDecoration: "none", color: "#000"}} to="/ourteams">
-                        <li>Our Teams</li>
+                        <Link style={{ textDecoration: "none", color: "#000" }} to="/ourteams">
+                            <li>Our Teams</li>
                         </Link>
                     </ul>
                     <Link to="/contactus">
