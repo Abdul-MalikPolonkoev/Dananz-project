@@ -1,0 +1,36 @@
+.product_block_footer {
+    width: 1274px;
+    height: 166px;
+    margin-left: 120px;
+    margin-top: 156px;
+
+    .line_3 {
+        width: 504px;
+        border: 1px solid #333333;
+        margin-left: 93px;
+        margin-top: -11px;
+    }
+}
+
+.product_footer {
+    display: flex;
+    align-items: center;
+    margin-left: 120px;
+    margin-top: 30px;
+
+    position: relative;
+
+}
+
+.product_text_footer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-left: 117px;
+    margin-top: 86px;
+}
+
+.product_arrow_right {
+    cursor: pointer;
+    margin-top: 9px;
+}
