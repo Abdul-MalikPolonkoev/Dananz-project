@@ -25,6 +25,13 @@
             margin-left: 30px;
             margin-top: 37px;
             gap: 63px;
+
+            li {
+                &:hover {
+                    text-decoration: underline;
+                }
+            }
+
         }
 
         .btn {

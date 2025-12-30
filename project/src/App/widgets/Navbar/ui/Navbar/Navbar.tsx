@@ -1,7 +1,7 @@
-import { Link } from 'react-router-dom'
-import cls from './Navbar.module.scss'
-import logo from '../../../../shared/assets/png/logo.png'
-import { Button } from '../../../../shared/ui/Button/Button'
+import { Link } from 'react-router-dom';
+import cls from './Navbar.module.scss';
+import logo from '../../../../shared/assets/png/logo.png';
+import { Button } from '../../../../shared/ui/Button/Button';
 
 
 export const Navbar = () => {

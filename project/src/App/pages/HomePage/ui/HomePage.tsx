@@ -52,4 +52,4 @@ export const HomePage = memo(() => {
         </div>
     )
 }
-)
+);
