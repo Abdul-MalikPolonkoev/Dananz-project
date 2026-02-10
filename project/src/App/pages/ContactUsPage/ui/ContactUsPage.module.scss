@@ -1,215 +1,216 @@
-.contactus { 
-    width: 100%;
-    height: 2348px;
+.contactus {
+  width: 100%;
+  height: 2348px;
 }
 
 .contactus_block {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    margin-top: 135px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 135px;
 }
 
 .contactus_logo {
-    font-size: 56px;
-    font-weight: 700;
+  font-size: 56px;
+  font-weight: 700;
 }
 
 .contactus_desc {
-    font-size: 18px;
-    font-weight: 400;
-    margin-top: -26px;
-    text-align: center;
+  font-size: 18px;
+  font-weight: 400;
+  margin-top: -26px;
+  text-align: center;
 }
 
 .input_sections {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin-top: 26px;
-    gap: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 26px;
+  gap: 14px;
 }
 
 .input {
-    width: 413px;
-    height: 62px;
-    border: 1px solid #9C9C9C;
+  width: 413px;
+  height: 62px;
+  border: 1px solid #9c9c9c;
 }
 
 .input::placeholder {
-    font-size: 16px;
-    font-weight: 400;
-    color: #9C9C9C;
-    padding-left: 32px;
+  font-size: 16px;
+  font-weight: 400;
+  color: #9c9c9c;
+  padding-left: 32px;
 }
 
 .input_logo {
-    font-size: 18px;
-    font-weight: 500;
-    color: #333333;
+  font-size: 18px;
+  font-weight: 500;
+  color: #333333;
 }
 
 .input_logo2 {
-    font-size: 18px;
-    font-weight: 500;
-    color: #333333;
+  font-size: 18px;
+  font-weight: 500;
+  color: #333333;
 }
 
 .input_sections2 {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    margin-left: -5px;
-    margin-top: -8px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-left: -5px;
+  margin-top: -8px;
 }
 
 .input2 {
-    width: 840px;
-    height: 62px;
-    border: 1px solid #9C9C9C;
+  width: 840px;
+  height: 62px;
+  border: 1px solid #9c9c9c;
 }
 
 .input2::placeholder {
-    padding-left: 32px;
+  padding-left: 32px;
 }
 
 .input3 {
-    width: 840px;
-    height: 178px;
-    border: 1px solid #9C9C9C;
+  width: 840px;
+  height: 178px;
+  border: 1px solid #9c9c9c;
 }
 
 .input3::placeholder {
-    padding-left: 30px;
-    position: absolute;
-    left: 0;
-    top: 0;
-    margin-top: 25px;
+  padding-left: 30px;
+  position: absolute;
+  left: 0;
+  top: 0;
+  margin-top: 25px;
 }
 
 .input_logo3 {
-    font-size: 18px;
-    font-weight: 500;
-    color: #333333;
+  font-size: 18px;
+  font-weight: 500;
+  color: #333333;
 }
 
 .input_2 {
-    width: 840px;
-    height: 62px;
-    border: 1px solid #9C9C9C;
+  width: 840px;
+  height: 62px;
+  border: 1px solid #9c9c9c;
 }
 
 .input_2::placeholder {
-    padding-left: 32px;
+  padding-left: 32px;
 }
 
 .contactus_btn {
-    margin-top: 40px;
+  margin-top: 40px;
 }
 
 .arrow_down {
-    position: absolute;
-    left: 388px;
-    top: 0;
-    margin-top: 789px;
+  position: absolute;
+  left: 388px;
+  top: 0;
+  margin-top: 789px;
 }
 
 .countrySelector {
 }
 
 .countryHeader {
-    cursor: pointer;
+  cursor: pointer;
 }
 
 .countryList {
-    background-color: #fff;
-    border: 1px solid #ddd;
-    padding: 10px;
-    list-style: none;
-    margin: 0;
-    padding: 0;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  padding: 10px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
 }
 
 .countryList li {
-    padding: 5px;
-    border-bottom: 1px solid #ddd;
+  padding: 5px;
+  border-bottom: 1px solid #ddd;
 }
 
 .countryList li:last-child {
-    border-bottom: none;
+  border-bottom: none;
 }
 
 .arrow_down {
-    margin-left: 5px;
+  margin-left: 5px;
 }
 
 .logo_contries {
-    position: absolute;
-    left: 0;
-    top: 0;
-    color: #333333;
-    font-size: 18px;
-    font-weight: 500;
-    margin-left: 370px;
-    margin-top: 789px;
+  position: absolute;
+  left: 0;
+  top: 0;
+  color: #333333;
+  font-size: 18px;
+  font-weight: 500;
+  margin-left: 370px;
+  margin-top: 789px;
 }
 
-.loaction_block_footer {}
+.loaction_block_footer {
+}
 
 .loaction_logo {
-    font-size: 16px;
-    font-weight: 500;
-    color: #000;
-    margin-left: 120px;
-    margin-top: 97px;
+  font-size: 16px;
+  font-weight: 500;
+  color: #000;
+  margin-left: 120px;
+  margin-top: 97px;
 }
 
 .location_line {
-    width: 510px;
-    border: 1px solid #000;
-    margin-left: 201px;
-    margin-top: -25.5px;
+  width: 510px;
+  border: 1px solid #000;
+  margin-left: 201px;
+  margin-top: -25.5px;
 }
 
 .block_1_logo {
-    font-size: 36px;
-    font-weight: 600;
-    color: #333333;
-    margin-left: 120px;
+  font-size: 36px;
+  font-weight: 600;
+  color: #333333;
+  margin-left: 120px;
 }
 
 .block_1_desc {
-    font-size: 18px;
-    font-weight: 400;
-    color: #9C9C9C;
-    margin-left: 120px;
+  font-size: 18px;
+  font-weight: 400;
+  color: #9c9c9c;
+  margin-left: 120px;
 }
 
 .block_2_logo {
-    font-size: 24px;
-    font-weight: 600;
-    color: #333333;
-    margin-left: 120px;
+  font-size: 24px;
+  font-weight: 600;
+  color: #333333;
+  margin-left: 120px;
 }
 
-.block_2_desc { 
-    font-size: 18px;
-    font-weight: 400;
-    color: #9C9C9C;
-    margin-left: 120px;
+.block_2_desc {
+  font-size: 18px;
+  font-weight: 400;
+  color: #9c9c9c;
+  margin-left: 120px;
 }
 
-.block_3_logo { 
-    font-size: 24px;
-    font-weight: 600;
-    color: #333333;
-    margin-left: 120px;
+.block_3_logo {
+  font-size: 24px;
+  font-weight: 600;
+  color: #333333;
+  margin-left: 120px;
 }
 .block_3_desc {
-    font-size: 18px;
-    font-weight: 400;
-    color: #9C9C9C;
-    margin-left: 120px;
+  font-size: 18px;
+  font-weight: 400;
+  color: #9c9c9c;
+  margin-left: 120px;
 }

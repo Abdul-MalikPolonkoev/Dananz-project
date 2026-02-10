@@ -1,7 +1,7 @@
-export {HomePage} from './HomePage/ui/HomePage'
-export {AboutUsPage} from './AboutUsPage/ui/AboutUsPage'
-export {ServicesPage} from './ServicesPage/ui/ServicesPage'
-export {OurTeamsPage} from './OurTeamsPage/ui/OurTeamsPage'
-export {ContactUsPage} from './ContactUsPage/ui/ContactUsPage'
-export {PortofolioPage} from './PortofolioPage/ui/PortofolioPage'
-export {MinimalistRoomPage} from './MinimalistRoomPage/ui/MinimalistRoomPage'
+export { HomePage } from './HomePage/ui/HomePage';
+export { AboutUsPage } from './AboutUsPage/ui/AboutUsPage';
+export { ServicesPage } from './ServicesPage/ui/ServicesPage';
+export { OurTeamsPage } from './OurTeamsPage/ui/OurTeamsPage';
+export { ContactUsPage } from './ContactUsPage/ui/ContactUsPage';
+export { PortofolioPage } from './PortofolioPage/ui/PortofolioPage';
+export { MinimalistRoomPage } from './MinimalistRoomPage/ui/MinimalistRoomPage';

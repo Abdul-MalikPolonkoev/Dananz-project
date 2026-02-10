@@ -1,58 +1,57 @@
 .btn {
-    cursor: pointer;
-    transition: all 0.3s ease;
+  cursor: pointer;
+  transition: all 0.3s ease;
 
-    &.small {
-        width: 128px;
-        height: 49px;
-        font-size: 14px;
-        font-weight: 500;
+  &.small {
+    width: 128px;
+    height: 49px;
+    font-size: 14px;
+    font-weight: 500;
+  }
+  &.medium {
+    width: 142px;
+    height: 49px;
+    font-size: 14px;
+    font-weight: 500;
+  }
+  &.large {
+    width: 159px;
+    height: 49px;
+    font-size: 14px;
+    font-weight: 500;
+  }
+  &.large_extra {
+    width: 168px;
+    height: 49px;
+    font-size: 14px;
+    font-weight: 500;
+  }
 
-    }
-    &.medium {
-        width: 142px;
-        height: 49px;
-        font-size: 14px;
-        font-weight: 500;
-    }
-    &.large {
-        width: 159px;
-        height: 49px;
-        font-size: 14px;
-        font-weight: 500;
-    }
-    &.large_extra {
-        width: 168px;
-        height: 49px;
-        font-size: 14px;
-        font-weight: 500;
-    }
-
-    &.default {
-        background: #2C3878;
-        color: #ffffff;
-        border: 1px solid #3C3C3C;
-
-        &:hover {
-            background: #1c244d;
-        }
-    }
-    &.primary_white {
-        background: #fff;
-        color: #000;
-        border: none;
-
-        &:hover {
-            background: #b6b6b6;
-        }
-    }
-    &.outline {
-        background: #fff;
-        color: #000;
-        border: 1px solid #3C3C3C;
-    }
+  &.default {
+    background: #2c3878;
+    color: #ffffff;
+    border: 1px solid #3c3c3c;
 
     &:hover {
-        background: #b6b6b6;
+      background: #1c244d;
     }
+  }
+  &.primary_white {
+    background: #fff;
+    color: #000;
+    border: none;
+
+    &:hover {
+      background: #b6b6b6;
+    }
+  }
+  &.outline {
+    background: #fff;
+    color: #000;
+    border: 1px solid #3c3c3c;
+  }
+
+  &:hover {
+    background: #b6b6b6;
+  }
 }
